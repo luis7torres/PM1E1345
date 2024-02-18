@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PM1E1345</string>
+    <string name="btn_foto">Foto</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_nota">Nota</string>
+    <string name="btn_salvarcontacto">Salvar Contacto</string>
+    <string name="btn_contactosalvado">Contactos Salvados</string>
+    <string name="btn_atras">Atras</string>
+    <string name="btn_atras2">Atras</string>
+    <string name="btn_compartircontacto">Compartir Contacto</string>
+    <string name="btn_eliminarcontacto">Eliminar Contacto</string>
+    <string name="btn_verimagen">Ver Imagen</string>
+    <string name="btn_actualizarcontacto">Actualizar Contacto \n</string>
+    <string name="btn_atras3">Atras</string>
+    <string name="btn_actualizarcontacto2">Actualizar Contacto</string>
+    <string name="btn_fotoac">Foto</string>
+    <string name="hint_nombreac">Nombre</string>
+    <string name="hint_telefonoac">Telefono</string>
+    <string name="hint_notaac">Nota</string>
+    <string name="btn_actualizarcontactos">Actualizar</string>
+    <string name="btn_lossalvados">Contactos Salvados</string>
+</resources>
